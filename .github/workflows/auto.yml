@@ -1,4 +1,4 @@
-name: Envio Diario 8h
+name: Envio Diário 8h
 
 on:
   schedule:
